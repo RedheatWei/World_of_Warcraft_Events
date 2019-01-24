@@ -16,7 +16,7 @@ CHAT\_MSG\_BN\_INLINE\_TOAST\_BROADCAST → [战场](https://wow.gamepedia.com/C
 
 [CHAT\_MSG\_BN\_INLINE\_TOAST\_BROADCAST\_INFORM](https://wow.gamepedia.com/CHAT_MSG_BN_INLINE_TOAST_BROADCAST_INFORM) → [战网](https://wow.gamepedia.com/Category:API_events/Battle.net),[通讯](https://wow.gamepedia.com/Category:API_events/Communication) 更改战网真实ID广播消息时或从[API BNSetCustomMessage](https://wow.gamepedia.com/API_BNSetCustomMessage)触发
 
-[CHAT\_MSG\_BN\_INLINE\_TOAST\_CONVERSATION](https://wow.gamepedia.com/CHAT_MSG_BN_INLINE_TOAST_CONVERSATION) → [战网](https://wow.gamepedia.com/Category:API_events/Battle.net),[通讯](https://wow.gamepedia.com/Category:API_events/Communication) 
+[CHAT\_MSG\_BN\_INLINE\_TOAST\_CONVERSATION](https://wow.gamepedia.com/CHAT_MSG_BN_INLINE_TOAST_CONVERSATION) → [战网](https://wow.gamepedia.com/Category:API_events/Battle.net),[通讯](https://wow.gamepedia.com/Category:API_events/Communication)
 
 [CHAT\_MSG\_BN\_WHISPER](https://wow.gamepedia.com/CHAT_MSG_BN_WHISPER) → [战网](https://wow.gamepedia.com/Category:API_events/Battle.net),[通讯](https://wow.gamepedia.com/Category:API_events/Communication)
 
@@ -24,19 +24,19 @@ CHAT\_MSG\_BN\_INLINE\_TOAST\_BROADCAST → [战场](https://wow.gamepedia.com/C
 
 [CHAT\_MSG\_BN\_WHISPER\_PLAYER\_OFFLINE](https://wow.gamepedia.com/CHAT_MSG_BN_WHISPER_PLAYER_OFFLINE) → [战网](https://wow.gamepedia.com/Category:API_events/Battle.net),[通讯](https://wow.gamepedia.com/Category:API_events/Communication)
 
-[CHAT\_MSG\_CHANNEL](https://wow.gamepedia.com/CHAT_MSG_CHANNEL) → [通讯](https://wow.gamepedia.com/Category:API_events/Communication)
+[CHAT\_MSG\_CHANNEL](https://wow.gamepedia.com/CHAT_MSG_CHANNEL) → [通讯](https://wow.gamepedia.com/Category:API_events/Communication) 客户端收到频道消息时触发。
 
-[CHAT\_MSG\_CHANNEL\_JOIN](https://wow.gamepedia.com/CHAT_MSG_CHANNEL_JOIN) → [通讯](https://wow.gamepedia.com/Category:API_events/Communication)
+[CHAT\_MSG\_CHANNEL\_JOIN](https://wow.gamepedia.com/CHAT_MSG_CHANNEL_JOIN) → [通讯](https://wow.gamepedia.com/Category:API_events/Communication) 当有人加入您所在的聊天频道时被触发
 
-[CHAT\_MSG\_CHANNEL\_LEAVE](https://wow.gamepedia.com/CHAT_MSG_CHANNEL_LEAVE) → [通讯](https://wow.gamepedia.com/Category:API_events/Communication)
+[CHAT\_MSG\_CHANNEL\_LEAVE](https://wow.gamepedia.com/CHAT_MSG_CHANNEL_LEAVE) → [通讯](https://wow.gamepedia.com/Category:API_events/Communication) 当玩家离开您当前所在的频道时被触发。
 
-[CHAT\_MSG\_CHANNEL\_LIST](https://wow.gamepedia.com/CHAT_MSG_CHANNEL_LIST) → [通讯](https://wow.gamepedia.com/Category:API_events/Communication)
+[CHAT\_MSG\_CHANNEL\_LIST](https://wow.gamepedia.com/CHAT_MSG_CHANNEL_LIST) → [通讯](https://wow.gamepedia.com/Category:API_events/Communication)  调用[ListChannels](https://wow.gamepedia.com/API_ListChannels)\(\)或[ListChannelByName](https://wow.gamepedia.com/API_ListChannelByName)\(\)时触发，并在聊天框中显示消息。
 
-[CHAT\_MSG\_CHANNEL\_NOTICE](https://wow.gamepedia.com/CHAT_MSG_CHANNEL_NOTICE) → [通讯](https://wow.gamepedia.com/Category:API_events/Communication)
+[CHAT\_MSG\_CHANNEL\_NOTICE](https://wow.gamepedia.com/CHAT_MSG_CHANNEL_NOTICE) → [通讯](https://wow.gamepedia.com/Category:API_events/Communication) 当您进入或离开聊天频道（或最近节流频道）时被触发
 
-[CHAT\_MSG\_CHANNEL\_NOTICE\_USER](https://wow.gamepedia.com/CHAT_MSG_CHANNEL_NOTICE_USER) → [通讯](https://wow.gamepedia.com/Category:API_events/Communication)
+[CHAT\_MSG\_CHANNEL\_NOTICE\_USER](https://wow.gamepedia.com/CHAT_MSG_CHANNEL_NOTICE_USER) → [通讯](https://wow.gamepedia.com/Category:API_events/Communication)  当频道中的某些内容发生变化时启动，如启用审核，用户被踢，通知发生变化等等。GlobalStrings.lua中的CHAT \_ \* \_ NOTICE包含可用类型的完整列表。
 
-[CHAT\_MSG\_COMBAT\_FACTION\_CHANGE](https://wow.gamepedia.com/CHAT_MSG_COMBAT_FACTION_CHANGE) → [战斗](https://wow.gamepedia.com/Category:API_events/Combat)
+[CHAT\_MSG\_COMBAT\_FACTION\_CHANGE](https://wow.gamepedia.com/CHAT_MSG_COMBAT_FACTION_CHANGE) → [战斗](https://wow.gamepedia.com/Category:API_events/Combat) 当玩家的阵营改变时触发。即：“你对木喉要塞的声望略有增加。” -- 新1.9
 
 [CHAT\_MSG\_COMBAT\_HONOR\_GAIN](https://wow.gamepedia.com/CHAT_MSG_COMBAT_HONOR_GAIN) → [战斗](https://wow.gamepedia.com/Category:API_events/Combat),[荣誉](https://wow.gamepedia.com/Category:API_events/Honor)
 
