@@ -44,13 +44,13 @@ CHAT\_MSG\_BN\_INLINE\_TOAST\_BROADCAST → [战场](https://wow.gamepedia.com/C
 
 [CHAT\_MSG\_COMBAT\_XP\_GAIN](https://wow.gamepedia.com/CHAT_MSG_COMBAT_XP_GAIN) → [玩家](https://wow.gamepedia.com/Category:API_events/Player) 当你从杀死一个生物或完成任务中获得经验时会触发。如果你没有从杀死一个生物获得经验，则不会触发。
 
-[CHAT\_MSG\_CURRENCY](https://wow.gamepedia.com/CHAT_MSG_CURRENCY) → [劫掠](https://wow.gamepedia.com/Category:API_events/Loot) 当你获得货币以外的货币时会触发（例如[Chef's Awards](https://wow.gamepedia.com/Chef%27s_Award)或[Champion's Seals](https://wow.gamepedia.com/Champion%27s_Seal)）
+[CHAT\_MSG\_CURRENCY](https://wow.gamepedia.com/CHAT_MSG_CURRENCY) → [劫掠](https://wow.gamepedia.com/Category:API_events/Loot) 当你获得货币以外的货币时会触发（例如[Chef's Awards](https://wow.gamepedia.com/Chef's_Award)或[Champion's Seals](https://wow.gamepedia.com/Champion's_Seal)）
 
 [CHAT\_MSG\_DND](https://wow.gamepedia.com/CHAT_MSG_DND) → [通讯](https://wow.gamepedia.com/Category:API_events/Communication) 当客户端收到“请勿打扰”自动响应时触发
 
 [CHAT\_MSG\_EMOTE](https://wow.gamepedia.com/CHAT_MSG_EMOTE) → [通讯](https://wow.gamepedia.com/Category:API_events/Communication) 在发送或接收自定义表情（由/ e，/ emote使用的表格或带有表情标志的发送聊天消息命令）时触发
 
-CHAT\_MSG\_FILTERED → [通讯](https://wow.gamepedia.com/Category:API_events/Communication) 
+CHAT\_MSG\_FILTERED → [通讯](https://wow.gamepedia.com/Category:API_events/Communication)
 
 [CHAT\_MSG\_GUILD](https://wow.gamepedia.com/CHAT_MSG_GUILD) → [通讯](https://wow.gamepedia.com/Category:API_events/Communication),[公会](https://wow.gamepedia.com/Category:API_events/Guild) 在公会频道中发送或接收消息时触发。
 
@@ -138,10 +138,9 @@ CLOSE\_INBOX\_ITEM → [邮件](https://wow.gamepedia.com/Category:API_events/Ma
 
 [CLOSE\_WORLD\_MAP](https://wow.gamepedia.com/CLOSE_WORLD_MAP) →  [地图](https://wow.gamepedia.com/Category:API_events/Map)  假设世界地图被关闭/隐藏时会触发，但事实并非如此。解决方法是使用“WORLD\_MAP\_UPDATE”设置全局变量，在其他地方使用OnUpdate函数
 
-[COMBAT\_LOG\_EVENT](https://wow.gamepedia.com/COMBAT_LOG_EVENT) → [战斗](https://wow.gamepedia.com/Category:API_events/Combat) 
+[COMBAT\_LOG\_EVENT](https://wow.gamepedia.com/COMBAT_LOG_EVENT) → [战斗](https://wow.gamepedia.com/Category:API_events/Combat)
 
 [COMBAT\_LOG\_EVENT\_UNFILTERED](https://wow.gamepedia.com/COMBAT_LOG_EVENT_UNFILTERED) → [战斗](https://wow.gamepedia.com/Category:API_events/Combat)
 
-  
-
+[COMBAT\_TEXT\_UPDATE](https://wow.gamepedia.com/COMBAT_TEXT_UPDATE) → [战斗](#)
 
