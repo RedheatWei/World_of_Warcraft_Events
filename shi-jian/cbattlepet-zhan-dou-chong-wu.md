@@ -12,11 +12,11 @@
 * [PET\_BATTLE\_LEVEL\_CHANGED](https://wow.gamepedia.com/PET_BATTLE_LEVEL_CHANGED) - 战斗宠等级改变时触发。
 * [PET\_BATTLE\_MAX\_HEALTH\_CHANGED](https://wow.gamepedia.com/PET_BATTLE_MAX_HEALTH_CHANGED)
 * [PET\_BATTLE\_OPENING\_DONE](https://wow.gamepedia.com/PET_BATTLE_OPENING_DONE) - 战斗宠物镜头过渡结束时触发。
-* [PET\_BATTLE\_OPENING\_START](https://wow.gamepedia.com/PET_BATTLE_OPENING_START) - 开始过渡用户界面与宠物对战。
-* [PET\_BATTLE\_OVER](https://wow.gamepedia.com/PET_BATTLE_OVER)
+* [PET\_BATTLE\_OPENING\_START](https://wow.gamepedia.com/PET_BATTLE_OPENING_START) - 开始过渡用户界面与宠物对战时触发。
+* [PET\_BATTLE\_OVER](https://wow.gamepedia.com/PET_BATTLE_OVER) - 在宠物战斗结束时触发，所有战斗行动都已解决。
 * [PET\_BATTLE\_OVERRIDE\_ABILITY](https://wow.gamepedia.com/PET_BATTLE_OVERRIDE_ABILITY)
-* [PET\_BATTLE\_PET\_CHANGED](https://wow.gamepedia.com/PET_BATTLE_PET_CHANGED)
-* [PET\_BATTLE\_PET\_ROUND\_PLAYBACK\_COMPLETE](https://wow.gamepedia.com/PET_BATTLE_PET_ROUND_PLAYBACK_COMPLETE)
+* [PET\_BATTLE\_PET\_CHANGED](https://wow.gamepedia.com/PET_BATTLE_PET_CHANGED) - 当队伍的主动战斗宠物发生变化时触发。
+* [PET\_BATTLE\_PET\_ROUND\_PLAYBACK\_COMPLETE](https://wow.gamepedia.com/PET_BATTLE_PET_ROUND_PLAYBACK_COMPLETE) 
 * [PET\_BATTLE\_PET\_ROUND\_RESULTS](https://wow.gamepedia.com/PET_BATTLE_PET_ROUND_RESULTS)
 * [PET\_BATTLE\_PET\_TYPE\_CHANGED](https://wow.gamepedia.com/PET_BATTLE_PET_TYPE_CHANGED)
 * [PET\_BATTLE\_PVP\_DUEL\_REQUEST\_CANCEL](https://wow.gamepedia.com/PET_BATTLE_PVP_DUEL_REQUEST_CANCEL)
@@ -25,7 +25,7 @@
 * [PET\_BATTLE\_QUEUE\_PROPOSAL\_DECLINED](https://wow.gamepedia.com/PET_BATTLE_QUEUE_PROPOSAL_DECLINED)
 * [PET\_BATTLE\_QUEUE\_PROPOSE\_MATCH](https://wow.gamepedia.com/PET_BATTLE_QUEUE_PROPOSE_MATCH)
 * [PET\_BATTLE\_QUEUE\_STATUS](https://wow.gamepedia.com/PET_BATTLE_QUEUE_STATUS)
-* [PET\_BATTLE\_XP\_CHANGED](https://wow.gamepedia.com/PET_BATTLE_XP_CHANGED)
+* [PET\_BATTLE\_XP\_CHANGED](https://wow.gamepedia.com/PET_BATTLE_XP_CHANGED) - 当战斗宠物在宠物战斗中获得经验时触发。
 
 
 
