@@ -19,4 +19,7 @@
   * [C\_Bank 银行](shi-jian/cbank-yin-xing.md)
   * [C\_BarberShop 理发店](shi-jian/cbarbershop-li-fa-dian.md)
   * [C\_BattlePet 战斗宠物](shi-jian/cbattlepet-zhan-dou-chong-wu.md)
+  * [C\_BlackMarketInfo 黑市信息](shi-jian/cblackmarketinfo-hei-shi-xin-xi.md)
+  * [C\_Browser 浏览器](shi-jian/cbrowser-liu-lan-qi.md)
+  * [C\_Calendar 日历](shi-jian/ccalendar-ri-li.md)
 
