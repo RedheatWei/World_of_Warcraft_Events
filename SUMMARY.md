@@ -17,4 +17,6 @@
   * [C\_AzeriteEssence 艾泽里特精华](shi-jian/cazeriteessence-ai-ze-li-te-jing-hua.md)
   * [C\_AzeriteItem 艾泽里特物品](shi-jian/cazeriteitem-ai-ze-li-te-wu-pin.md)
   * [C\_Bank 银行](shi-jian/cbank-yin-xing.md)
+  * [C\_BarberShop 理发店](shi-jian/cbarbershop-li-fa-dian.md)
+  * [C\_BattlePet 战斗宠物](shi-jian/cbattlepet-zhan-dou-chong-wu.md)
 
