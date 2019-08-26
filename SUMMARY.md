@@ -12,4 +12,7 @@
   * [C\_AlliedRaces 联盟种族](shi-jian/calliedraces-lian-meng-zhong-zu.md)
   * [C\_AreaPoiInfo 区域毒药信息](shi-jian/careapoiinfo-qu-yu-du-yao-xin-xi.md)
   * [C\_ArtifactUI 神器界面](shi-jian/cartifactui-shen-qi-jie-mian.md)
+  * [C\_AuctionHouse 拍卖行](shi-jian/cauctionhouse-pai-mai-xing.md)
+  * [C\_AzeriteEmpoweredItem 艾泽里特强化物品](shi-jian/cazeriteempowereditem-ai-ze-li-te-qiang-hua-wu-pin.md)
+  * [C\_AzeriteEssence 艾泽里特精华](shi-jian/cazeriteessence-ai-ze-li-te-jing-hua.md)
 
