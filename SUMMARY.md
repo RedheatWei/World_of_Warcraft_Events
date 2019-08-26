@@ -15,4 +15,6 @@
   * [C\_AuctionHouse 拍卖行](shi-jian/cauctionhouse-pai-mai-xing.md)
   * [C\_AzeriteEmpoweredItem 艾泽里特强化物品](shi-jian/cazeriteempowereditem-ai-ze-li-te-qiang-hua-wu-pin.md)
   * [C\_AzeriteEssence 艾泽里特精华](shi-jian/cazeriteessence-ai-ze-li-te-jing-hua.md)
+  * [C\_AzeriteItem 艾泽里特物品](shi-jian/cazeriteitem-ai-ze-li-te-wu-pin.md)
+  * [C\_Bank 银行](shi-jian/cbank-yin-xing.md)
 
