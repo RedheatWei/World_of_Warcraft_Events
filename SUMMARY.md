@@ -22,4 +22,6 @@
   * [C\_BlackMarketInfo 黑市信息](shi-jian/cblackmarketinfo-hei-shi-xin-xi.md)
   * [C\_Browser 浏览器](shi-jian/cbrowser-liu-lan-qi.md)
   * [C\_Calendar 日历](shi-jian/ccalendar-ri-li.md)
+  * [C\_ChallengeMode 挑战模式](shi-jian/cchallengemode.md)
+  * [C\_ChatInfo 聊天信息](shi-jian/cchatinfo-liao-tian-xin-xi.md)
 
