@@ -6,8 +6,8 @@
 * [CHANNEL\_FLAGS\_UPDATED](https://wow.gamepedia.com/CHANNEL_FLAGS_UPDATED) - 用户在Blizzards ChannelFrame中更改所选频道时触发。
 * [CHANNEL\_INVITE\_REQUEST](https://wow.gamepedia.com/CHANNEL_INVITE_REQUEST)
 * [CHANNEL\_LEFT](https://wow.gamepedia.com/CHANNEL_LEFT)
-* [CHANNEL\_PASSWORD\_REQUEST](https://wow.gamepedia.com/CHANNEL_PASSWORD_REQUEST) - 在要求用户输入密码时触发（通常在不使用密码或错误密码来尝试加入频道后）
-* [CHANNEL\_ROSTER\_UPDATE](https://wow.gamepedia.com/CHANNEL_ROSTER_UPDATE) - 当用户更改Blizzards ChannelFrame中的所选频道或当前所选频道中的玩家数量更改时触发
+* [CHANNEL\_PASSWORD\_REQUEST](https://wow.gamepedia.com/CHANNEL_PASSWORD_REQUEST) - 在要求用户输入密码时触发（通常在不使用密码或错误密码来尝试加入频道后）。
+* [CHANNEL\_ROSTER\_UPDATE](https://wow.gamepedia.com/CHANNEL_ROSTER_UPDATE) - 当用户更改Blizzards ChannelFrame中的所选频道或当前所选频道中的玩家数量更改时触发。
 * [CHANNEL\_UI\_UPDATE](https://wow.gamepedia.com/CHANNEL_UI_UPDATE)
 * [CHAT\_COMBAT\_MSG\_ARENA\_POINTS\_GAIN](https://wow.gamepedia.com/CHAT_COMBAT_MSG_ARENA_POINTS_GAIN)
 * [CHAT\_MSG\_ACHIEVEMENT](https://wow.gamepedia.com/CHAT_MSG_ACHIEVEMENT)
