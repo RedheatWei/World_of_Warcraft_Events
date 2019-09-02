@@ -25,4 +25,7 @@
   * [C\_Cinematic 过场动画](shi-jian/ccinematic-guo-chang-dong-hua.md)
   * [C\_Club ](shi-jian/cclub.md)
   * [C\_ClubFinder](shi-jian/cclubfinder.md)
+  * [C\_CombatLog 战斗记录](shi-jian/ccombatlog-zhan-dou-ji-lu.md)
+  * [C\_Commentator](shi-jian/ccommentator.md)
+  * [C\_CompactUnitFrames](shi-jian/ccompactunitframes.md)
 
