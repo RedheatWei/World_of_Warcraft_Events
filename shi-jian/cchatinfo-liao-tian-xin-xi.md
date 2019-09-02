@@ -8,9 +8,9 @@
 * [CHANNEL\_LEFT](https://wow.gamepedia.com/CHANNEL_LEFT)
 * [CHANNEL\_PASSWORD\_REQUEST](https://wow.gamepedia.com/CHANNEL_PASSWORD_REQUEST) - 在要求用户输入密码时触发（通常在不使用密码或错误密码来尝试加入频道后）。
 * [CHANNEL\_ROSTER\_UPDATE](https://wow.gamepedia.com/CHANNEL_ROSTER_UPDATE) - 当用户更改Blizzards ChannelFrame中的所选频道或当前所选频道中的玩家数量更改时触发。
-* [CHANNEL\_UI\_UPDATE](https://wow.gamepedia.com/CHANNEL_UI_UPDATE)
+* [CHANNEL\_UI\_UPDATE](https://wow.gamepedia.com/CHANNEL_UI_UPDATE) - 频道用户界面应该更改时触发（例如加入/离开频道会导致此事件触发）
 * [CHAT\_COMBAT\_MSG\_ARENA\_POINTS\_GAIN](https://wow.gamepedia.com/CHAT_COMBAT_MSG_ARENA_POINTS_GAIN)
-* [CHAT\_MSG\_ACHIEVEMENT](https://wow.gamepedia.com/CHAT_MSG_ACHIEVEMENT)
+* [CHAT\_MSG\_ACHIEVEMENT](https://wow.gamepedia.com/CHAT_MSG_ACHIEVEMENT) - 当你附近的玩家获得成就时触发
 * [CHAT\_MSG\_ADDON](https://wow.gamepedia.com/CHAT_MSG_ADDON)
 * [CHAT\_MSG\_ADDON\_LOGGED](https://wow.gamepedia.com/CHAT_MSG_ADDON_LOGGED)
 * [CHAT\_MSG\_AFK](https://wow.gamepedia.com/CHAT_MSG_AFK)
