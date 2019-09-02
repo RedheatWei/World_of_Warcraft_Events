@@ -31,4 +31,8 @@
   * [C\_Console 控制台](shi-jian/cconsole-kong-zhi-tai.md)
   * [C\_Container 容器](shi-jian/ccontainer-rong-qi.md)
   * [C\_ContributionCollector](shi-jian/ccontributioncollector.md)
+  * [C\_CurrencyInfo 货币信息](shi-jian/ccurrencyinfo-huo-bi-xin-xi.md)
+  * [C\_Cursor 光标](shi-jian/ccursor-guang-biao.md)
+  * [C\_DeathInfo 死亡信息](shi-jian/cdeathinfo-si-wang-xin-xi.md)
+  * [C\_DuelInfo 决斗信息](shi-jian/cduelinfo-jue-dou-xin-xi.md)
 
