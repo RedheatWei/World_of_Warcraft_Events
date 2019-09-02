@@ -28,4 +28,5 @@
   * [C\_CombatLog 战斗记录](shi-jian/ccombatlog-zhan-dou-ji-lu.md)
   * [C\_Commentator](shi-jian/ccommentator.md)
   * [C\_CompactUnitFrames](shi-jian/ccompactunitframes.md)
+  * [C\_Console 控制台](shi-jian/cconsole-kong-zhi-tai.md)
 
