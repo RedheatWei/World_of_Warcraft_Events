@@ -29,4 +29,6 @@
   * [C\_Commentator](shi-jian/ccommentator.md)
   * [C\_CompactUnitFrames](shi-jian/ccompactunitframes.md)
   * [C\_Console 控制台](shi-jian/cconsole-kong-zhi-tai.md)
+  * [C\_Container 容器](shi-jian/ccontainer-rong-qi.md)
+  * [C\_ContributionCollector](shi-jian/ccontributioncollector.md)
 

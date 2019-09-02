@@ -5,7 +5,7 @@
 * [CONSOLE\_FONT\_SIZE\_CHANGED](https://wow.gamepedia.com/CONSOLE_FONT_SIZE_CHANGED)
 * [CONSOLE\_LOG](https://wow.gamepedia.com/CONSOLE_LOG)
 * [CONSOLE\_MESSAGE](https://wow.gamepedia.com/CONSOLE_MESSAGE)
-* [CVAR\_UPDATE](https://wow.gamepedia.com/CVAR_UPDATE)
+* [CVAR\_UPDATE](https://wow.gamepedia.com/CVAR_UPDATE) - CVar改变时触发
 * [GLUE\_CONSOLE\_LOG](https://wow.gamepedia.com/GLUE_CONSOLE_LOG)
 * [TOGGLE\_CONSOLE](https://wow.gamepedia.com/TOGGLE_CONSOLE)
 
