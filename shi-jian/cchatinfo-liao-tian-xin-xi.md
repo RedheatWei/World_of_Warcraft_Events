@@ -36,7 +36,7 @@
 * [CHAT\_MSG\_COMBAT\_MISC\_INFO](https://wow.gamepedia.com/CHAT_MSG_COMBAT_MISC_INFO) - 当你的装备因死亡而导致持久性损失时触发，也可能是其他情况。
 * [CHAT\_MSG\_COMBAT\_XP\_GAIN](https://wow.gamepedia.com/CHAT_MSG_COMBAT_XP_GAIN) - 当你从杀死一个生物或完成一个任务中获得经验时会触发。如果你没有从杀死一个生物获得经验，则不会触发。
 * [CHAT\_MSG\_COMMUNITIES\_CHANNEL](https://wow.gamepedia.com/CHAT_MSG_COMMUNITIES_CHANNEL) 
-* [CHAT\_MSG\_CURRENCY](https://wow.gamepedia.com/CHAT_MSG_CURRENCY) - 当你获得金钱以外的货币时触发（例如[厨师徽记](https://wow.gamepedia.com/Chef%27s_Award)或[冠军的徽记](https://wow.gamepedia.com/Champion%27s_Seal)）。
+* [CHAT\_MSG\_CURRENCY](https://wow.gamepedia.com/CHAT_MSG_CURRENCY) - 当你获得金钱以外的货币时触发（例如[厨师徽记](https://wow.gamepedia.com/Chef's_Award)或[冠军的徽记](https://wow.gamepedia.com/Champion's_Seal)）。
 * [CHAT\_MSG\_DND](https://wow.gamepedia.com/CHAT_MSG_DND) - 当客户端收到“请勿打扰”自动响应时触发。
 * [CHAT\_MSG\_EMOTE](https://wow.gamepedia.com/CHAT_MSG_EMOTE) - 在发送或接收自定义表情（使用/ e，/ emote或使用emote标记发送聊天命令）时触发。
 * [CHAT\_MSG\_FILTERED](https://wow.gamepedia.com/CHAT_MSG_FILTERED)
@@ -56,37 +56,37 @@
 * [CHAT\_MSG\_OFFICER](https://wow.gamepedia.com/CHAT_MSG_OFFICER) - 在公会官员频道发送或接收消息时触发。
 * [CHAT\_MSG\_OPENING](https://wow.gamepedia.com/CHAT_MSG_OPENING)
 * [CHAT\_MSG\_PARTY](https://wow.gamepedia.com/CHAT_MSG_PARTY) - 在小队频道中发送或接收消息时触发。
-* [CHAT\_MSG\_PARTY\_LEADER](https://wow.gamepedia.com/CHAT_MSG_PARTY_LEADER) - 在团队领袖发送或接收消息时触发。
+* [CHAT\_MSG\_PARTY\_LEADER](https://wow.gamepedia.com/CHAT_MSG_PARTY_LEADER) - 在队长发送或接收消息时触发。
 * [CHAT\_MSG\_PET\_BATTLE\_COMBAT\_LOG](https://wow.gamepedia.com/CHAT_MSG_PET_BATTLE_COMBAT_LOG) 
 * [CHAT\_MSG\_PET\_BATTLE\_INFO](https://wow.gamepedia.com/CHAT_MSG_PET_BATTLE_INFO)
 * [CHAT\_MSG\_PET\_INFO](https://wow.gamepedia.com/CHAT_MSG_PET_INFO)
-* [CHAT\_MSG\_RAID](https://wow.gamepedia.com/CHAT_MSG_RAID)
-* [CHAT\_MSG\_RAID\_BOSS\_EMOTE](https://wow.gamepedia.com/CHAT_MSG_RAID_BOSS_EMOTE)
+* [CHAT\_MSG\_RAID](https://wow.gamepedia.com/CHAT_MSG_RAID) - 在团队中发送或接收消息时触发。
+* [CHAT\_MSG\_RAID\_BOSS\_EMOTE](https://wow.gamepedia.com/CHAT_MSG_RAID_BOSS_EMOTE) 
 * [CHAT\_MSG\_RAID\_BOSS\_WHISPER](https://wow.gamepedia.com/CHAT_MSG_RAID_BOSS_WHISPER)
-* [CHAT\_MSG\_RAID\_LEADER](https://wow.gamepedia.com/CHAT_MSG_RAID_LEADER)
-* [CHAT\_MSG\_RAID\_WARNING](https://wow.gamepedia.com/CHAT_MSG_RAID_WARNING)
+* [CHAT\_MSG\_RAID\_LEADER](https://wow.gamepedia.com/CHAT_MSG_RAID_LEADER) - 在团队领袖发送或接收消息时触发。
+* [CHAT\_MSG\_RAID\_WARNING](https://wow.gamepedia.com/CHAT_MSG_RAID_WARNING) - 从团队领袖发送或接收警告消息时触发。
 * [CHAT\_MSG\_RESTRICTED](https://wow.gamepedia.com/CHAT_MSG_RESTRICTED)
-* [CHAT\_MSG\_SAY](https://wow.gamepedia.com/CHAT_MSG_SAY)
-* [CHAT\_MSG\_SKILL](https://wow.gamepedia.com/CHAT_MSG_SKILL)
-* [CHAT\_MSG\_SYSTEM](https://wow.gamepedia.com/CHAT_MSG_SYSTEM)
-* [CHAT\_MSG\_TARGETICONS](https://wow.gamepedia.com/CHAT_MSG_TARGETICONS)
-* [CHAT\_MSG\_TEXT\_EMOTE](https://wow.gamepedia.com/CHAT_MSG_TEXT_EMOTE)
+* [CHAT\_MSG\_SAY](https://wow.gamepedia.com/CHAT_MSG_SAY) - 在“说”频道中发送或接收消息时触发。
+* [CHAT\_MSG\_SKILL](https://wow.gamepedia.com/CHAT_MSG_SKILL) - 在显示有关技能的聊天消息时触发。
+* [CHAT\_MSG\_SYSTEM](https://wow.gamepedia.com/CHAT_MSG_SYSTEM) - 收到系统聊天消息（它们以黄色显示）时触发。
+* [CHAT\_MSG\_TARGETICONS](https://wow.gamepedia.com/CHAT_MSG_TARGETICONS) - 设置团队目标标记时触发。如果玩家正在聊天输出中查看团队标记，这由聊天过滤器使用。（在过滤器右键单击菜单中的“其他”下，查找“目标标记”。
+* [CHAT\_MSG\_TEXT\_EMOTE](https://wow.gamepedia.com/CHAT_MSG_TEXT_EMOTE) - 使用表情命令触发表情。/舞蹈等
 * [CHAT\_MSG\_TRADESKILLS](https://wow.gamepedia.com/CHAT_MSG_TRADESKILLS)
-* [CHAT\_MSG\_WHISPER](https://wow.gamepedia.com/CHAT_MSG_WHISPER)
-* [CHAT\_MSG\_WHISPER\_INFORM](https://wow.gamepedia.com/CHAT_MSG_WHISPER_INFORM)
-* [CHAT\_MSG\_YELL](https://wow.gamepedia.com/CHAT_MSG_YELL)
-* [CHAT\_SERVER\_DISCONNECTED](https://wow.gamepedia.com/CHAT_SERVER_DISCONNECTED)
+* [CHAT\_MSG\_WHISPER](https://wow.gamepedia.com/CHAT_MSG_WHISPER) - 当从另一位玩家收到密语时触发。
+* [CHAT\_MSG\_WHISPER\_INFORM](https://wow.gamepedia.com/CHAT_MSG_WHISPER_INFORM) - 当一位玩家向另一位玩家发送密语时触发。
+* [CHAT\_MSG\_YELL](https://wow.gamepedia.com/CHAT_MSG_YELL) - 在大喊频道中接受或发送消息时触发。
+* [CHAT\_SERVER\_DISCONNECTED](https://wow.gamepedia.com/CHAT_SERVER_DISCONNECTED) 
 * [CHAT\_SERVER\_RECONNECTED](https://wow.gamepedia.com/CHAT_SERVER_RECONNECTED)
 * [CLEAR\_BOSS\_EMOTES](https://wow.gamepedia.com/CLEAR_BOSS_EMOTES)
 * [LANGUAGE\_LIST\_CHANGED](https://wow.gamepedia.com/LANGUAGE_LIST_CHANGED)
 * [QUEST\_BOSS\_EMOTE](https://wow.gamepedia.com/QUEST_BOSS_EMOTE)
 * [RAID\_BOSS\_EMOTE](https://wow.gamepedia.com/RAID_BOSS_EMOTE)
 * [RAID\_BOSS\_WHISPER](https://wow.gamepedia.com/RAID_BOSS_WHISPER)
-* [RAID\_INSTANCE\_WELCOME](https://wow.gamepedia.com/RAID_INSTANCE_WELCOME)
-* [UPDATE\_CHAT\_COLOR](https://wow.gamepedia.com/UPDATE_CHAT_COLOR)
-* [UPDATE\_CHAT\_COLOR\_NAME\_BY\_CLASS](https://wow.gamepedia.com/UPDATE_CHAT_COLOR_NAME_BY_CLASS)
-* [UPDATE\_CHAT\_WINDOWS](https://wow.gamepedia.com/UPDATE_CHAT_WINDOWS)
-* [UPDATE\_FLOATING\_CHAT\_WINDOWS](https://wow.gamepedia.com/UPDATE_FLOATING_CHAT_WINDOWS)
+* [RAID\_INSTANCE\_WELCOME](https://wow.gamepedia.com/RAID_INSTANCE_WELCOME) - 当玩家进入一个在boss被杀后保存团队成员进度的实例时被触发。
+* [UPDATE\_CHAT\_COLOR](https://wow.gamepedia.com/UPDATE_CHAT_COLOR) - 在需要更新聊天颜色时触发。有关参数的详细信息，请参阅[ChangeChatColor](https://wow.gamepedia.com/API_ChangeChatColor)。
+* [UPDATE\_CHAT\_COLOR\_NAME\_BY\_CLASS](https://wow.gamepedia.com/UPDATE_CHAT_COLOR_NAME_BY_CLASS) 
+* [UPDATE\_CHAT\_WINDOWS](https://wow.gamepedia.com/UPDATE_CHAT_WINDOWS) - 当聊天设置可用于聊天窗口时，在加载时触发。
+* [UPDATE\_FLOATING\_CHAT\_WINDOWS](https://wow.gamepedia.com/UPDATE_FLOATING_CHAT_WINDOWS) - 当聊天设置可用于某个聊天窗口时，在加载时触发。
 
 
 

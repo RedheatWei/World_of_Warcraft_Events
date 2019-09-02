@@ -22,4 +22,7 @@
   * [C\_Calendar 日历](shi-jian/ccalendar-ri-li.md)
   * [C\_ChallengeMode 挑战模式](shi-jian/cchallengemode.md)
   * [C\_ChatInfo 聊天信息](shi-jian/cchatinfo-liao-tian-xin-xi.md)
+  * [C\_Cinematic 过场动画](shi-jian/ccinematic-guo-chang-dong-hua.md)
+  * [C\_Club ](shi-jian/cclub.md)
+  * [C\_ClubFinder](shi-jian/cclubfinder.md)
 
