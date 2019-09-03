@@ -36,7 +36,7 @@
 * [SHOW\_LOOT\_TOAST\_UPGRADE](https://wow.gamepedia.com/SHOW_LOOT_TOAST_UPGRADE)
 * [SHOW\_PVP\_FACTION\_LOOT\_TOAST](https://wow.gamepedia.com/SHOW_PVP_FACTION_LOOT_TOAST)
 * [SHOW\_RATED\_PVP\_REWARD\_TOAST](https://wow.gamepedia.com/SHOW_RATED_PVP_REWARD_TOAST)
-* [START\_LOOT\_ROLL](https://wow.gamepedia.com/START_LOOT_ROLL) - 正在roll队伍战利品时被触发。
+* [START\_LOOT\_ROLL](https://wow.gamepedia.com/START_LOOT_ROLL) - 正在roll队伍战利品时触发。
 * [TRIAL\_CAP\_REACHED\_MONEY](https://wow.gamepedia.com/TRIAL_CAP_REACHED_MONEY)
 * [UPDATE\_MASTER\_LOOT\_LIST](https://wow.gamepedia.com/UPDATE_MASTER_LOOT_LIST)
 
