@@ -71,4 +71,6 @@
   * [C\_ModelInfo 模型信息](shi-jian/cmodelinfo-mo-xing-xin-xi.md)
   * [C\_MountJournal 坐骑日志](shi-jian/cmountjournal-zuo-qi-ri-zhi.md)
   * [C\_MythicPlus 大秘境](shi-jian/cmythicplus-da-mi-jing.md)
+  * [C\_NamePlateManager](shi-jian/cnameplatemanager.md)
+  * [C\_PaperDollInfo 人物面板信息](shi-jian/cpaperdollinfo-ren-wu-mian-ban-xin-xi.md)
 
