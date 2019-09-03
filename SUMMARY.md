@@ -53,4 +53,6 @@
   * [C\_Item 物品](shi-jian/citem-wu-pin.md)
   * [C\_ItemSocketInfo](shi-jian/citemsocketinfo.md)
   * [C\_ItemText 物品文本](shi-jian/citemtext-wu-pin-wen-ben.md)
+  * [C\_ItemUpgrade 物品更新](shi-jian/citemupgrade-wu-pin-geng-xin.md)
+  * [C\_KeyBindings 键绑定](shi-jian/ckeybindings-jian-bang-ding.md)
 
