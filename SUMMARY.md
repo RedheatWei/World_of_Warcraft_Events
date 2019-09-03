@@ -44,4 +44,5 @@
   * [C\_Garrison 要塞](shi-jian/cgarrison-yao-sai.md)
   * [C\_GlyphInfo 雕文信息](shi-jian/cglyphinfo-diao-wen-xin-xi.md)
   * [C\_GossipInfo 闲聊信息](shi-jian/cgossipinfo-xian-liao-xin-xi.md)
+  * [C\_GuildBank 公会银行](shi-jian/cguildbank-gong-hui-yin-xing.md)
 
