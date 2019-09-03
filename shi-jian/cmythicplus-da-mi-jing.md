@@ -1,0 +1,8 @@
+### C\_MythicPlus
+
+* [MYTHIC\_PLUS\_CURRENT\_AFFIX\_UPDATE](https://wow.gamepedia.com/MYTHIC_PLUS_CURRENT_AFFIX_UPDATE)
+* [MYTHIC\_PLUS\_NEW\_SEASON\_RECORD](https://wow.gamepedia.com/MYTHIC_PLUS_NEW_SEASON_RECORD)
+* [MYTHIC\_PLUS\_NEW\_WEEKLY\_RECORD](https://wow.gamepedia.com/MYTHIC_PLUS_NEW_WEEKLY_RECORD)
+
+
+
