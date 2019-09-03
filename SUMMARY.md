@@ -69,4 +69,5 @@
   * [C\_MerchantFrame 交易框架](shi-jian/cmerchantframe-jiao-yi-kuang-jia.md)
   * [C\_Minimap 小地图](shi-jian/cminimap-xiao-di-tu.md)
   * [C\_ModelInfo 模型信息](shi-jian/cmodelinfo-mo-xing-xin-xi.md)
+  * [C\_MountJournal 坐骑日志](shi-jian/cmountjournal-zuo-qi-ri-zhi.md)
 
