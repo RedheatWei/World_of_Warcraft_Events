@@ -36,4 +36,5 @@
   * [C\_DeathInfo 死亡信息](shi-jian/cdeathinfo-si-wang-xin-xi.md)
   * [C\_DuelInfo 决斗信息](shi-jian/cduelinfo-jue-dou-xin-xi.md)
   * [C\_EncounterInfo 试炼信息](shi-jian/cencounterinfo-shi-lian-xin-xi.md)
+  * [C\_EncounterJournal 试炼日志](shi-jian/cencounterjournal-shi-lian-ri-zhi.md)
 
