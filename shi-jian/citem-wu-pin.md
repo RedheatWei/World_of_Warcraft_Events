@@ -1,10 +1,10 @@
 ### C\_Item
 
 * [ACTION\_WILL\_BIND\_ITEM](https://wow.gamepedia.com/ACTION_WILL_BIND_ITEM)
-* [BIND\_ENCHANT](https://wow.gamepedia.com/BIND_ENCHANT)
+* [BIND\_ENCHANT](https://wow.gamepedia.com/BIND_ENCHANT) - 附魔装绑物品时触发。
 * [CHARACTER\_ITEM\_FIXUP\_NOTIFICATION](https://wow.gamepedia.com/CHARACTER_ITEM_FIXUP_NOTIFICATION)
 * [CONFIRM\_BEFORE\_USE](https://wow.gamepedia.com/CONFIRM_BEFORE_USE)
-* [DELETE\_ITEM\_CONFIRM](https://wow.gamepedia.com/DELETE_ITEM_CONFIRM)
+* [DELETE\_ITEM\_CONFIRM](https://wow.gamepedia.com/DELETE_ITEM_CONFIRM) - 试图摧毁物品时触发。
 * [END\_BOUND\_TRADEABLE](https://wow.gamepedia.com/END_BOUND_TRADEABLE)
 * [GET\_ITEM\_INFO\_RECEIVED](https://wow.gamepedia.com/GET_ITEM_INFO_RECEIVED)
 * [ITEM\_DATA\_LOAD\_RESULT](https://wow.gamepedia.com/ITEM_DATA_LOAD_RESULT)
