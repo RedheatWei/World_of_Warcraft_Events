@@ -12,7 +12,7 @@
 * [LFG\_PROPOSAL\_FAILED](https://wow.gamepedia.com/LFG_PROPOSAL_FAILED) - 当某人拒绝地下城邀请或不做出职责选择时触发。
 * [LFG\_PROPOSAL\_SHOW](https://wow.gamepedia.com/LFG_PROPOSAL_SHOW) - 在找到地下城队伍时触发，并显示接受或拒绝它的对话框。
 * [LFG\_PROPOSAL\_SUCCEEDED](https://wow.gamepedia.com/LFG_PROPOSAL_SUCCEEDED) - 当地下城队列中的每个人都接受邀请时触发。
-* [LFG\_PROPOSAL\_UPDATE](https://wow.gamepedia.com/LFG_PROPOSAL_UPDATE)
+* [LFG\_PROPOSAL\_UPDATE](https://wow.gamepedia.com/LFG_PROPOSAL_UPDATE) - 当有人接受或拒绝地下城队列邀请时触发。
 * [LFG\_QUEUE\_STATUS\_UPDATE](https://wow.gamepedia.com/LFG_QUEUE_STATUS_UPDATE)
 * [LFG\_READY\_CHECK\_DECLINED](https://wow.gamepedia.com/LFG_READY_CHECK_DECLINED)
 * [LFG\_READY\_CHECK\_HIDE](https://wow.gamepedia.com/LFG_READY_CHECK_HIDE)
