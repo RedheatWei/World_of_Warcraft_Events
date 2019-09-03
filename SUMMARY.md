@@ -42,4 +42,6 @@
   * [C\_FriendList 好友列表](shi-jian/cfriendlist-hao-you-lie-biao.md)
   * [C\_GMTicketInfo GM票信息](shi-jian/cgmticketinfo-gm-piao-xin-xi.md)
   * [C\_Garrison 要塞](shi-jian/cgarrison-yao-sai.md)
+  * [C\_GlyphInfo 雕文信息](shi-jian/cglyphinfo-diao-wen-xin-xi.md)
+  * [C\_GossipInfo 闲聊信息](shi-jian/cgossipinfo-xian-liao-xin-xi.md)
 
