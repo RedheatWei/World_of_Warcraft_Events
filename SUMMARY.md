@@ -64,4 +64,5 @@
   * [C\_LossOfControl 失去控制](shi-jian/clossofcontrol-shi-qu-kong-zhi.md)
   * [C\_Macro 宏](shi-jian/cmacro-hong.md)
   * [C\_Mail 邮件](shi-jian/cmail-you-jian.md)
+  * [C\_Map 地图](shi-jian/cmap-di-tu.md)
 
