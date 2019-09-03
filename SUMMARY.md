@@ -45,4 +45,5 @@
   * [C\_GlyphInfo 雕文信息](shi-jian/cglyphinfo-diao-wen-xin-xi.md)
   * [C\_GossipInfo 闲聊信息](shi-jian/cgossipinfo-xian-liao-xin-xi.md)
   * [C\_GuildBank 公会银行](shi-jian/cguildbank-gong-hui-yin-xing.md)
+  * [C\_GuildInfo 公会信息](shi-jian/cguildinfo-gong-hui-xin-xi.md)
 
