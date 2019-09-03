@@ -51,4 +51,5 @@
   * [C\_IslandsInfo 海岛战役](shi-jian/cislandsinfo-dao-yu-xin-xi.md)
   * [C\_IslandsQueue 海岛队列](shi-jian/cislandsqueue-hai-dao-dui-lie.md)
   * [C\_Item 物品](shi-jian/citem-wu-pin.md)
+  * [C\_ItemSocketInfo](shi-jian/citemsocketinfo.md)
 
