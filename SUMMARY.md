@@ -48,5 +48,7 @@
   * [C\_GuildInfo 公会信息](shi-jian/cguildinfo-gong-hui-xin-xi.md)
   * [C\_HeirloomInfo 传家宝信息](shi-jian/cheirloominfo-chuan-jia-bao-xin-xi.md)
   * [C\_InstanceEncounter](shi-jian/cinstanceencounter.md)
-  * [C\_IslandsInfo 岛屿信息](shi-jian/cislandsinfo-dao-yu-xin-xi.md)
+  * [C\_IslandsInfo 海岛战役](shi-jian/cislandsinfo-dao-yu-xin-xi.md)
+  * [C\_IslandsQueue 海岛队列](shi-jian/cislandsqueue-hai-dao-dui-lie.md)
+  * [C\_Item 物品](shi-jian/citem-wu-pin.md)
 
