@@ -25,9 +25,9 @@
 * [LFG\_ROLE\_CHECK\_SHOW](https://wow.gamepedia.com/LFG_ROLE_CHECK_SHOW)
 * [LFG\_ROLE\_CHECK\_UPDATE](https://wow.gamepedia.com/LFG_ROLE_CHECK_UPDATE)
 * [LFG\_ROLE\_UPDATE](https://wow.gamepedia.com/LFG_ROLE_UPDATE)
-* [LFG\_UPDATE](https://wow.gamepedia.com/LFG_UPDATE)
+* [LFG\_UPDATE](https://wow.gamepedia.com/LFG_UPDATE) - 当触发时，提示LFG UI更新可用的LFG类别和目标列表（即新的任务，区域，LFG可用的副本）。
 * [LFG\_UPDATE\_RANDOM\_INFO](https://wow.gamepedia.com/LFG_UPDATE_RANDOM_INFO)
-* [UPDATE\_LFG\_LIST](https://wow.gamepedia.com/UPDATE_LFG_LIST)
+* [UPDATE\_LFG\_LIST](https://wow.gamepedia.com/UPDATE_LFG_LIST) - 当被触发时，提示LFG UI更新LFG玩家列表。LFG查询结果可用的信号。
 * [WARFRONT\_COMPLETED](https://wow.gamepedia.com/WARFRONT_COMPLETED)
 
 
