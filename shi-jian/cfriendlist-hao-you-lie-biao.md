@@ -18,9 +18,9 @@
 * [BN\_INFO\_CHANGED](https://wow.gamepedia.com/BN_INFO_CHANGED)
 * [BN\_REQUEST\_FOF\_SUCCEEDED](https://wow.gamepedia.com/BN_REQUEST_FOF_SUCCEEDED)
 * [FRIENDLIST\_UPDATE](https://wow.gamepedia.com/FRIENDLIST_UPDATE)
-* [IGNORELIST\_UPDATE](https://wow.gamepedia.com/IGNORELIST_UPDATE)
+* [IGNORELIST\_UPDATE](https://wow.gamepedia.com/IGNORELIST_UPDATE) - 在屏蔽列表中添加或删除玩家时触发两次。
 * [MUTELIST\_UPDATE](https://wow.gamepedia.com/MUTELIST_UPDATE)
-* [WHO\_LIST\_UPDATE](https://wow.gamepedia.com/WHO_LIST_UPDATE)
+* [WHO\_LIST\_UPDATE](https://wow.gamepedia.com/WHO_LIST_UPDATE) - 当客户端从服务器收到[C\_FriendList.SendWho](https://wow.gamepedia.com/API_C_FriendList.SendWho)请求的结果时触发。
 
 
 

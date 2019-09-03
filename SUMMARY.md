@@ -40,4 +40,6 @@
   * [C\_EquipmentSet 装备管理](shi-jian/cequipmentset-zhuang-bei-guan-li.md)
   * [C\_FogOfWar](shi-jian/cfogofwar.md)
   * [C\_FriendList 好友列表](shi-jian/cfriendlist-hao-you-lie-biao.md)
+  * [C\_GMTicketInfo GM票信息](shi-jian/cgmticketinfo-gm-piao-xin-xi.md)
+  * [C\_Garrison 要塞](shi-jian/cgarrison-yao-sai.md)
 
