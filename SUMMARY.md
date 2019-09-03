@@ -55,4 +55,6 @@
   * [C\_ItemText 物品文本](shi-jian/citemtext-wu-pin-wen-ben.md)
   * [C\_ItemUpgrade 物品更新](shi-jian/citemupgrade-wu-pin-geng-xin.md)
   * [C\_KeyBindings 键绑定](shi-jian/ckeybindings-jian-bang-ding.md)
+  * [C\_KnowledgeBase 知识库](shi-jian/cknowledgebase-zhi-shi-ku.md)
+  * [C\_LFGInfo 团队查找器](shi-jian/clfginfo-tuan-dui-cha-zhao-qi.md)
 
