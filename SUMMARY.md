@@ -52,4 +52,5 @@
   * [C\_IslandsQueue 海岛队列](shi-jian/cislandsqueue-hai-dao-dui-lie.md)
   * [C\_Item 物品](shi-jian/citem-wu-pin.md)
   * [C\_ItemSocketInfo](shi-jian/citemsocketinfo.md)
+  * [C\_ItemText 物品文本](shi-jian/citemtext-wu-pin-wen-ben.md)
 
