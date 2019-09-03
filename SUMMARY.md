@@ -39,4 +39,5 @@
   * [C\_EncounterJournal 试炼日志](shi-jian/cencounterjournal-shi-lian-ri-zhi.md)
   * [C\_EquipmentSet 装备管理](shi-jian/cequipmentset-zhuang-bei-guan-li.md)
   * [C\_FogOfWar](shi-jian/cfogofwar.md)
+  * [C\_FriendList 好友列表](shi-jian/cfriendlist-hao-you-lie-biao.md)
 
