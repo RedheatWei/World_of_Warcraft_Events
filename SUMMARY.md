@@ -61,4 +61,5 @@
   * [C\_LFGuildInfo 公会查找器信息](shi-jian/clfguildinfo-gong-hui-cha-zhao-qi-xin-xi.md)
   * [C\_LoadingScreen](shi-jian/cloadingscreen.md)
   * [C\_Loot 拾取](shi-jian/cloot-jie-lve.md)
+  * [C\_LossOfControl 失去控制](shi-jian/clossofcontrol-shi-qu-kong-zhi.md)
 
