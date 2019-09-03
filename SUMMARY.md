@@ -65,4 +65,8 @@
   * [C\_Macro 宏](shi-jian/cmacro-hong.md)
   * [C\_Mail 邮件](shi-jian/cmail-you-jian.md)
   * [C\_Map 地图](shi-jian/cmap-di-tu.md)
+  * [C\_MapExplorationInfo 地图探索信息](shi-jian/cmapexplorationinfo-di-tu-tan-suo-xin-xi.md)
+  * [C\_MerchantFrame 交易框架](shi-jian/cmerchantframe-jiao-yi-kuang-jia.md)
+  * [C\_Minimap 小地图](shi-jian/cminimap-xiao-di-tu.md)
+  * [C\_ModelInfo 模型信息](shi-jian/cmodelinfo-mo-xing-xin-xi.md)
 
