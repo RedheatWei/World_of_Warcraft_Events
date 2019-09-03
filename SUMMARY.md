@@ -57,4 +57,5 @@
   * [C\_KeyBindings 键绑定](shi-jian/ckeybindings-jian-bang-ding.md)
   * [C\_KnowledgeBase 知识库](shi-jian/cknowledgebase-zhi-shi-ku.md)
   * [C\_LFGInfo 团队查找器](shi-jian/clfginfo-tuan-dui-cha-zhao-qi.md)
+  * [C\_LFGList 团队查找列表](shi-jian/clfglist-tuan-dui-cha-zhao-lie-biao.md)
 
