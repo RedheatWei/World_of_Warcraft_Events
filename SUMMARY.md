@@ -37,4 +37,6 @@
   * [C\_DuelInfo 决斗信息](shi-jian/cduelinfo-jue-dou-xin-xi.md)
   * [C\_EncounterInfo 试炼信息](shi-jian/cencounterinfo-shi-lian-xin-xi.md)
   * [C\_EncounterJournal 试炼日志](shi-jian/cencounterjournal-shi-lian-ri-zhi.md)
+  * [C\_EquipmentSet 装备管理](shi-jian/cequipmentset-zhuang-bei-guan-li.md)
+  * [C\_FogOfWar](shi-jian/cfogofwar.md)
 
