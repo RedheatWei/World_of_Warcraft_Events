@@ -1,0 +1,11 @@
+### C\_LFGuildInfo
+
+* [LF\_GUILD\_BROWSE\_UPDATED](https://wow.gamepedia.com/LF_GUILD_BROWSE_UPDATED)
+* [LF\_GUILD\_MEMBERSHIP\_LIST\_CHANGED](https://wow.gamepedia.com/LF_GUILD_MEMBERSHIP_LIST_CHANGED)
+* [LF\_GUILD\_MEMBERSHIP\_LIST\_UPDATED](https://wow.gamepedia.com/LF_GUILD_MEMBERSHIP_LIST_UPDATED)
+* [LF\_GUILD\_POST\_UPDATED](https://wow.gamepedia.com/LF_GUILD_POST_UPDATED)
+* [LF\_GUILD\_RECRUIT\_LIST\_CHANGED](https://wow.gamepedia.com/LF_GUILD_RECRUIT_LIST_CHANGED)
+* [LF\_GUILD\_RECRUITS\_UPDATED](https://wow.gamepedia.com/LF_GUILD_RECRUITS_UPDATED)
+
+
+
