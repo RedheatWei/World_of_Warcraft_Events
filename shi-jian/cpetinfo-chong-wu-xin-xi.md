@@ -1,8 +1,8 @@
 ### C\_PetInfo
 
 * [PET\_ATTACK\_START](https://wow.gamepedia.com/PET_ATTACK_START) - 当玩家的宠物开始攻击时触发。
-* [PET\_ATTACK\_STOP](https://wow.gamepedia.com/PET_ATTACK_STOP)
-* [PET\_BAR\_HIDEGRID](https://wow.gamepedia.com/PET_BAR_HIDEGRID)
+* [PET\_ATTACK\_STOP](https://wow.gamepedia.com/PET_ATTACK_STOP) - 当玩家的宠物停止攻击时触发。
+* [PET\_BAR\_HIDEGRID](https://wow.gamepedia.com/PET_BAR_HIDEGRID) - 宠物技能拖到PetActionBar时触发。
 * [PET\_BAR\_SHOWGRID](https://wow.gamepedia.com/PET_BAR_SHOWGRID)
 * [PET\_BAR\_UPDATE\_COOLDOWN](https://wow.gamepedia.com/PET_BAR_UPDATE_COOLDOWN)
 * [PET\_DISMISS\_START](https://wow.gamepedia.com/PET_DISMISS_START)
