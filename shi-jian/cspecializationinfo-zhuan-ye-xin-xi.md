@@ -1,0 +1,14 @@
+### C\_SpecializationInfo
+
+* [ACTIVE\_TALENT\_GROUP\_CHANGED](https://wow.gamepedia.com/ACTIVE_TALENT_GROUP_CHANGED)
+* [CONFIRM\_TALENT\_WIPE](https://wow.gamepedia.com/CONFIRM_TALENT_WIPE)
+* [PET\_SPECIALIZATION\_CHANGED](https://wow.gamepedia.com/PET_SPECIALIZATION_CHANGED)
+* [PLAYER\_LEARN\_PVP\_TALENT\_FAILED](https://wow.gamepedia.com/PLAYER_LEARN_PVP_TALENT_FAILED)
+* [PLAYER\_LEARN\_TALENT\_FAILED](https://wow.gamepedia.com/PLAYER_LEARN_TALENT_FAILED)
+* [PLAYER\_PVP\_TALENT\_UPDATE](https://wow.gamepedia.com/PLAYER_PVP_TALENT_UPDATE)
+* [PLAYER\_TALENT\_UPDATE](https://wow.gamepedia.com/PLAYER_TALENT_UPDATE)
+* [SPEC\_INVOLUNTARILY\_CHANGED](https://wow.gamepedia.com/SPEC_INVOLUNTARILY_CHANGED)
+* [TALENTS\_INVOLUNTARILY\_RESET](https://wow.gamepedia.com/TALENTS_INVOLUNTARILY_RESET)
+
+
+
