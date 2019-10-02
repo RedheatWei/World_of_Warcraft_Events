@@ -44,11 +44,11 @@
 * [PLAYER\_TARGET\_CHANGED](https://wow.gamepedia.com/PLAYER_TARGET_CHANGED) - 每当玩家的目标被改变，包括目标丢失时，这个事件就会被触发。
 * [PLAYER\_TRIAL\_XP\_UPDATE](https://wow.gamepedia.com/PLAYER_TRIAL_XP_UPDATE)
 * [PLAYER\_UPDATE\_RESTING](https://wow.gamepedia.com/PLAYER_UPDATE_RESTING) - 当玩家开始或停止休息时触发。即进入或离开旅店/城镇。
-* [PLAYER\_XP\_UPDATE](https://wow.gamepedia.com/PLAYER_XP_UPDATE)
-* [PORTRAITS\_UPDATED](https://wow.gamepedia.com/PORTRAITS_UPDATED)
+* [PLAYER\_XP\_UPDATE](https://wow.gamepedia.com/PLAYER_XP_UPDATE) - 当玩家的经验值被更新时触发（任务完成或杀戮）。
+* [PORTRAITS\_UPDATED](https://wow.gamepedia.com/PORTRAITS_UPDATED) 
 * [PROVING\_GROUNDS\_SCORE\_UPDATE](https://wow.gamepedia.com/PROVING_GROUNDS_SCORE_UPDATE)
 * [PVP\_TIMER\_UPDATE](https://wow.gamepedia.com/PVP_TIMER_UPDATE)
-* [RUNE\_POWER\_UPDATE](https://wow.gamepedia.com/RUNE_POWER_UPDATE)
+* [RUNE\_POWER\_UPDATE](https://wow.gamepedia.com/RUNE_POWER_UPDATE) - 当符文的状态从可用切换到不可用或反之时激发。
 * [SHOW\_FACTION\_SELECT\_UI](https://wow.gamepedia.com/SHOW_FACTION_SELECT_UI)
 * [SPELL\_CONFIRMATION\_PROMPT](https://wow.gamepedia.com/SPELL_CONFIRMATION_PROMPT)
 * [SPELL\_CONFIRMATION\_TIMEOUT](https://wow.gamepedia.com/SPELL_CONFIRMATION_TIMEOUT)
