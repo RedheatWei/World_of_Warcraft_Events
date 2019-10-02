@@ -77,4 +77,5 @@
   * [C\_PetInfo 宠物信息](shi-jian/cpetinfo-chong-wu-xin-xi.md)
   * [C\_PetJournal 宠物日志](shi-jian/cpetjournal.md)
   * [C\_PvP](shi-jian/cpvp.md)
+  * [C\_QuestChoice](shi-jian/cquestchoice.md)
 
