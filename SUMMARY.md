@@ -111,4 +111,5 @@
   * [C\_Vehicle](shi-jian/cvehicle.md)
   * [C\_VideoOptions 视频选项](shi-jian/cvideooptions-shi-pin-xuan-xiang.md)
   * [C\_VignetteInfo](shi-jian/cvignetteinfo.md)
+  * [C\_VoiceChat 语音聊天](shi-jian/cvoicechat-yu-yin-liao-tian.md)
 
