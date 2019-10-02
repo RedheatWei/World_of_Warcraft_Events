@@ -2,27 +2,27 @@
 
 * [ARENA\_COOLDOWNS\_UPDATE](https://wow.gamepedia.com/ARENA_COOLDOWNS_UPDATE)
 * [ARENA\_CROWD\_CONTROL\_SPELL\_UPDATE](https://wow.gamepedia.com/ARENA_CROWD_CONTROL_SPELL_UPDATE)
-* [AUTOFOLLOW\_BEGIN](https://wow.gamepedia.com/AUTOFOLLOW_BEGIN)
-* [AUTOFOLLOW\_END](https://wow.gamepedia.com/AUTOFOLLOW_END)
+* [AUTOFOLLOW\_BEGIN](https://wow.gamepedia.com/AUTOFOLLOW_BEGIN) - 当你开始自动跟随一个盟友时触发
+* [AUTOFOLLOW\_END](https://wow.gamepedia.com/AUTOFOLLOW_END) - 停止自动跟随
 * [CANCEL\_SUMMON](https://wow.gamepedia.com/CANCEL_SUMMON)
 * [CONFIRM\_BINDER](https://wow.gamepedia.com/CONFIRM_BINDER)
 * [CONFIRM\_SUMMON](https://wow.gamepedia.com/CONFIRM_SUMMON)
 * [HEARTHSTONE\_BOUND](https://wow.gamepedia.com/HEARTHSTONE_BOUND)
 * [HONOR\_XP\_UPDATE](https://wow.gamepedia.com/HONOR_XP_UPDATE)
 * [INCOMING\_RESURRECT\_CHANGED](https://wow.gamepedia.com/INCOMING_RESURRECT_CHANGED)
-* [INCOMING\_SUMMON\_CHANGED](https://wow.gamepedia.com/INCOMING_SUMMON_CHANGED)
+* [INCOMING\_SUMMON\_CHANGED](https://wow.gamepedia.com/INCOMING_SUMMON_CHANGED) - 当玩家的召唤状态改变时触发
 * [KNOWN\_TITLES\_UPDATE](https://wow.gamepedia.com/KNOWN_TITLES_UPDATE)
 * [LOCALPLAYER\_PET\_RENAMED](https://wow.gamepedia.com/LOCALPLAYER_PET_RENAMED)
-* [MIRROR\_TIMER\_PAUSE](https://wow.gamepedia.com/MIRROR_TIMER_PAUSE)
-* [MIRROR\_TIMER\_START](https://wow.gamepedia.com/MIRROR_TIMER_START)
-* [MIRROR\_TIMER\_STOP](https://wow.gamepedia.com/MIRROR_TIMER_STOP)
+* [MIRROR\_TIMER\_PAUSE](https://wow.gamepedia.com/MIRROR_TIMER_PAUSE) - 当镜像计时器暂停时触发。
+* [MIRROR\_TIMER\_START](https://wow.gamepedia.com/MIRROR_TIMER_START) - 当某种计时器启动时触发。
+* [MIRROR\_TIMER\_STOP](https://wow.gamepedia.com/MIRROR_TIMER_STOP) - 镜像计时器停止
 * [NEUTRAL\_FACTION\_SELECT\_RESULT](https://wow.gamepedia.com/NEUTRAL_FACTION_SELECT_RESULT)
 * [OBJECT\_ENTERED\_AOI](https://wow.gamepedia.com/OBJECT_ENTERED_AOI)
 * [OBJECT\_LEFT\_AOI](https://wow.gamepedia.com/OBJECT_LEFT_AOI)
 * [PET\_BAR\_UPDATE\_USABLE](https://wow.gamepedia.com/PET_BAR_UPDATE_USABLE)
 * [PET\_UI\_UPDATE](https://wow.gamepedia.com/PET_UI_UPDATE)
 * [PLAYER\_DAMAGE\_DONE\_MODS](https://wow.gamepedia.com/PLAYER_DAMAGE_DONE_MODS)
-* [PLAYER\_ENTER\_COMBAT](https://wow.gamepedia.com/PLAYER_ENTER_COMBAT)
+* [PLAYER\_ENTER\_COMBAT](https://wow.gamepedia.com/PLAYER_ENTER_COMBAT) - 当玩家发动自动攻击时触发。请注意，发射一支枪或一个咒语，或获得仇恨，不会触发此事件。
 * [PLAYER\_FARSIGHT\_FOCUS\_CHANGED](https://wow.gamepedia.com/PLAYER_FARSIGHT_FOCUS_CHANGED)
 * [PLAYER\_FLAGS\_CHANGED](https://wow.gamepedia.com/PLAYER_FLAGS_CHANGED)
 * [PLAYER\_FOCUS\_CHANGED](https://wow.gamepedia.com/PLAYER_FOCUS_CHANGED)
