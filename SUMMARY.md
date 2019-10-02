@@ -85,4 +85,5 @@
   * [C\_ResearchInfo ](shi-jian/cresearchinfo.md)
   * [C\_RestrictedActions 受限动作](shi-jian/crestrictedactions-shou-xian-dong-zuo.md)
   * [C\_ScenarioInfo 剧情信息](shi-jian/cscenarioinfo-ju-qing-xin-xi.md)
+  * [C\_ScrappingMachineUI 分解机UI](shi-jian/cscrappingmachineui-fen-jie-ji-ui.md)
 
