@@ -101,4 +101,5 @@
   * [C\_TalkingHead](shi-jian/ctalkinghead.md)
   * [C\_TaxiMap 飞行点地图](shi-jian/ctaximap-fei-xing-dian-di-tu.md)
   * [C\_ToyBoxInfo 玩具盒信息](shi-jian/ctoyboxinfo-wan-ju-he-xin-xi.md)
+  * [C\_TradeInfo 贸易信息](shi-jian/ctradeinfo-mao-yi-xin-xi.md)
 
