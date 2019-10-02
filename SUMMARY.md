@@ -93,4 +93,5 @@
   * [C\_SocialQueue](shi-jian/csocialqueue.md)
   * [C\_Sound 声音](shi-jian/csound-sheng-yin.md)
   * [C\_SpecializationInfo 专精信息](shi-jian/cspecializationinfo-zhuan-jing-xin-xi.md)
+  * [C\_Spell 技能](shi-jian/cspellji-neng.md)
 
