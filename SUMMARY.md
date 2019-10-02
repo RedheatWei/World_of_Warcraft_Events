@@ -89,4 +89,5 @@
   * [C\_ScriptWarnings 脚本警告](shi-jian/cscriptwarnings-jiao-ben-jing-gao.md)
   * [C\_SecureTransfer](shi-jian/csecuretransfer.md)
   * [C\_SkillInfo 技能信息](shi-jian/cskillinfo-ji-neng-xin-xi.md)
+  * [C\_Social 社交](shi-jian/csocial-she-jiao.md)
 
