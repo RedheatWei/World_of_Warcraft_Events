@@ -81,4 +81,5 @@
   * [C\_QuestLog 任务日志](shi-jian/cquestlog-ren-wu-ri-zhi.md)
   * [C\_QuestOffer 任务询问](shi-jian/cquestoffer-ren-wu-xun-wen.md)
   * [C\_RecruitAFriend ](shi-jian/crecruitafriend.md)
+  * [C\_ReportSystem 报告系统](shi-jian/creportsystem-bao-gao-xi-tong.md)
 
