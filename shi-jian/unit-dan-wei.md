@@ -54,7 +54,7 @@
 * [SPELL\_CONFIRMATION\_TIMEOUT](https://wow.gamepedia.com/SPELL_CONFIRMATION_TIMEOUT)
 * [UNIT\_ABSORB\_AMOUNT\_CHANGED](https://wow.gamepedia.com/UNIT_ABSORB_AMOUNT_CHANGED)
 * [UNIT\_ATTACK](https://wow.gamepedia.com/UNIT_ATTACK) - 当一个单位的攻击受到影响时触发。
-*  [UNIT\_ATTACK\_POWER](https://wow.gamepedia.com/UNIT_ATTACK_POWER) - 当一个单位的攻击力改变时触发。
+* [UNIT\_ATTACK\_POWER](https://wow.gamepedia.com/UNIT_ATTACK_POWER) - 当一个单位的攻击力改变时触发。
 * [UNIT\_ATTACK\_SPEED](https://wow.gamepedia.com/UNIT_ATTACK_SPEED) - 当你的攻击速度被列出或受到影响时触发。
 * [UNIT\_AURA](https://wow.gamepedia.com/UNIT_AURA) - 当一个实体（玩家、宠物、NPC或怪物）获得或消失一个buff、debuff、status或item加成时触发。
 * [UNIT\_CHEAT\_TOGGLE\_EVENT](https://wow.gamepedia.com/UNIT_CHEAT_TOGGLE_EVENT) 
@@ -62,26 +62,26 @@
 * [UNIT\_COMBAT](https://wow.gamepedia.com/UNIT_COMBAT) - 当NPC或玩家参与战斗并受到伤害时触发
 * [UNIT\_CONNECTION](https://wow.gamepedia.com/UNIT_CONNECTION)
 * [UNIT\_DAMAGE](https://wow.gamepedia.com/UNIT_DAMAGE) - 当单位近战伤害改变时触发。
-* [UNIT\_DEFENSE](https://wow.gamepedia.com/UNIT_DEFENSE)
-* [UNIT\_DISPLAYPOWER](https://wow.gamepedia.com/UNIT_DISPLAYPOWER)
-* [UNIT\_FACTION](https://wow.gamepedia.com/UNIT_FACTION)
+* [UNIT\_DEFENSE](https://wow.gamepedia.com/UNIT_DEFENSE) - 当单位防御受到影响时触发。
+* [UNIT\_DISPLAYPOWER](https://wow.gamepedia.com/UNIT_DISPLAYPOWER) - 当单位的法力值改变时触发。在德鲁伊变形时以及在某些其他情况下发生。
+* [UNIT\_FACTION](https://wow.gamepedia.com/UNIT_FACTION) - 当一个单位的派系可用时触发。
 * [UNIT\_FLAGS](https://wow.gamepedia.com/UNIT_FLAGS)
 * [UNIT\_HEAL\_ABSORB\_AMOUNT\_CHANGED](https://wow.gamepedia.com/UNIT_HEAL_ABSORB_AMOUNT_CHANGED)
 * [UNIT\_HEAL\_PREDICTION](https://wow.gamepedia.com/UNIT_HEAL_PREDICTION)
-* [UNIT\_HEALTH](https://wow.gamepedia.com/UNIT_HEALTH)
+* [UNIT\_HEALTH](https://wow.gamepedia.com/UNIT_HEALTH) - 当一个单位的健康受到影响时触发。
 * [UNIT\_HEALTH\_FREQUENT](https://wow.gamepedia.com/UNIT_HEALTH_FREQUENT)
-* [UNIT\_INVENTORY\_CHANGED](https://wow.gamepedia.com/UNIT_INVENTORY_CHANGED)
+* [UNIT\_INVENTORY\_CHANGED](https://wow.gamepedia.com/UNIT_INVENTORY_CHANGED) - 当玩家装备或卸下物品时触发。
 * [UNIT\_LEVEL](https://wow.gamepedia.com/UNIT_LEVEL)
 * [UNIT\_MANA](https://wow.gamepedia.com/UNIT_MANA)
-* [UNIT\_MAXHEALTH](https://wow.gamepedia.com/UNIT_MAXHEALTH)
-* [UNIT\_MAXPOWER](https://wow.gamepedia.com/UNIT_MAXPOWER)
-* [UNIT\_MODEL\_CHANGED](https://wow.gamepedia.com/UNIT_MODEL_CHANGED)
-* [UNIT\_NAME\_UPDATE](https://wow.gamepedia.com/UNIT_NAME_UPDATE)
+* [UNIT\_MAXHEALTH](https://wow.gamepedia.com/UNIT_MAXHEALTH) - 当单位的最大生命值发生变化时。
+* [UNIT\_MAXPOWER](https://wow.gamepedia.com/UNIT_MAXPOWER) - 当单位的最大能量（法力、怒气、焦点、能量、符力、……）改变时，触发。
+* [UNIT\_MODEL\_CHANGED](https://wow.gamepedia.com/UNIT_MODEL_CHANGED) - 当单位的三维模型更改时触发。
+* [UNIT\_NAME\_UPDATE](https://wow.gamepedia.com/UNIT_NAME_UPDATE) - 当单位名称更改时触发。
 * [UNIT\_OTHER\_PARTY\_CHANGED](https://wow.gamepedia.com/UNIT_OTHER_PARTY_CHANGED)
 * [UNIT\_PET](https://wow.gamepedia.com/UNIT_PET)
 * [UNIT\_PET\_EXPERIENCE](https://wow.gamepedia.com/UNIT_PET_EXPERIENCE)
 * [UNIT\_PHASE](https://wow.gamepedia.com/UNIT_PHASE)
-* [UNIT\_PORTRAIT\_UPDATE](https://wow.gamepedia.com/UNIT_PORTRAIT_UPDATE)
+* [UNIT\_PORTRAIT\_UPDATE](https://wow.gamepedia.com/UNIT_PORTRAIT_UPDATE) - 当单位肖像改变时触发。
 * [UNIT\_POWER\_BAR\_HIDE](https://wow.gamepedia.com/UNIT_POWER_BAR_HIDE)
 * [UNIT\_POWER\_BAR\_SHOW](https://wow.gamepedia.com/UNIT_POWER_BAR_SHOW)
 * [UNIT\_POWER\_BAR\_TIMER\_UPDATE](https://wow.gamepedia.com/UNIT_POWER_BAR_TIMER_UPDATE)
