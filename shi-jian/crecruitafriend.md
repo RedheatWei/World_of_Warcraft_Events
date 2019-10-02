@@ -1,0 +1,14 @@
+### C\_RecruitAFriend
+
+* [LEVEL\_GRANT\_PROPOSED](https://wow.gamepedia.com/LEVEL_GRANT_PROPOSED)
+* [PARTY\_REFER\_A\_FRIEND\_UPDATED](https://wow.gamepedia.com/PARTY_REFER_A_FRIEND_UPDATED)
+* [RECRUIT\_A\_FRIEND\_CAN\_EMAIL](https://wow.gamepedia.com/RECRUIT_A_FRIEND_CAN_EMAIL)
+* [RECRUIT\_A\_FRIEND\_INVITATION\_FAILED](https://wow.gamepedia.com/RECRUIT_A_FRIEND_INVITATION_FAILED)
+* [RECRUIT\_A\_FRIEND\_INVITER\_FRIEND\_ADDED](https://wow.gamepedia.com/RECRUIT_A_FRIEND_INVITER_FRIEND_ADDED)
+* [RECRUIT\_A\_FRIEND\_SYSTEM\_STATUS](https://wow.gamepedia.com/RECRUIT_A_FRIEND_SYSTEM_STATUS)
+* [SOR\_BY\_TEXT\_UPDATED](https://wow.gamepedia.com/SOR_BY_TEXT_UPDATED)
+* [SOR\_COUNTS\_UPDATED](https://wow.gamepedia.com/SOR_COUNTS_UPDATED)
+* [SOR\_START\_EXPERIENCE\_INCOMPLETE](https://wow.gamepedia.com/SOR_START_EXPERIENCE_INCOMPLETE)
+
+
+

@@ -80,4 +80,5 @@
   * [C\_QuestChoice](shi-jian/cquestchoice.md)
   * [C\_QuestLog 任务日志](shi-jian/cquestlog-ren-wu-ri-zhi.md)
   * [C\_QuestOffer 任务询问](shi-jian/cquestoffer-ren-wu-xun-wen.md)
+  * [C\_RecruitAFriend ](shi-jian/crecruitafriend.md)
 
