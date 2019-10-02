@@ -96,4 +96,5 @@
   * [C\_Spell 技能](shi-jian/cspellji-neng.md)
   * [C\_SpellActivationOverlay ](shi-jian/cspellactivationoverlay.md)
   * [C\_SpellBook 技能书](shi-jian/cspellbook-ji-neng-shu.md)
+  * [C\_StableInfo](shi-jian/cstableinfo.md)
 
