@@ -25,17 +25,17 @@
 * [PLAYER\_ENTER\_COMBAT](https://wow.gamepedia.com/PLAYER_ENTER_COMBAT) - 当玩家发动自动攻击时触发。请注意，发射一支枪或一个咒语，或获得仇恨，不会触发此事件。
 * [PLAYER\_FARSIGHT\_FOCUS\_CHANGED](https://wow.gamepedia.com/PLAYER_FARSIGHT_FOCUS_CHANGED)
 * [PLAYER\_FLAGS\_CHANGED](https://wow.gamepedia.com/PLAYER_FLAGS_CHANGED) - 当单位的标志更改时（例如/afk，/dnd），此事件触发。
-* [PLAYER\_FOCUS\_CHANGED](https://wow.gamepedia.com/PLAYER_FOCUS_CHANGED)
-* [PLAYER\_LEAVE\_COMBAT](https://wow.gamepedia.com/PLAYER_LEAVE_COMBAT)
+* [PLAYER\_FOCUS\_CHANGED](https://wow.gamepedia.com/PLAYER_FOCUS_CHANGED) - 每当玩家的焦点目标（焦点）改变时，包括焦点目标丢失或清除时，此事件被触发。
+* [PLAYER\_LEAVE\_COMBAT](https://wow.gamepedia.com/PLAYER_LEAVE_COMBAT) - 当玩家通过死亡、击败对手或能力离开战斗时触发。如果玩家步行逃离战斗，则不会触发。
 * [PLAYER\_LEVEL\_CHANGED](https://wow.gamepedia.com/PLAYER_LEVEL_CHANGED)
-* [PLAYER\_LEVEL\_UP](https://wow.gamepedia.com/PLAYER_LEVEL_UP)
+* [PLAYER\_LEVEL\_UP](https://wow.gamepedia.com/PLAYER_LEVEL_UP) - 玩家升级
 * [PLAYER\_MOUNT\_DISPLAY\_CHANGED](https://wow.gamepedia.com/PLAYER_MOUNT_DISPLAY_CHANGED)
-* [PLAYER\_PVP\_KILLS\_CHANGED](https://wow.gamepedia.com/PLAYER_PVP_KILLS_CHANGED)
+* [PLAYER\_PVP\_KILLS\_CHANGED](https://wow.gamepedia.com/PLAYER_PVP_KILLS_CHANGED) - 当你因杀死敌方玩家而获得荣誉时触发。只有光荣击杀会触发此事件。
 * [PLAYER\_PVP\_RANK\_CHANGED](https://wow.gamepedia.com/PLAYER_PVP_RANK_CHANGED)
-* [PLAYER\_REGEN\_DISABLED](https://wow.gamepedia.com/PLAYER_REGEN_DISABLED)
-* [PLAYER\_REGEN\_ENABLED](https://wow.gamepedia.com/PLAYER_REGEN_ENABLED)
+* [PLAYER\_REGEN\_DISABLED](https://wow.gamepedia.com/PLAYER_REGEN_DISABLED) - 进入战斗后触发，因为正常的恢复速度在战斗中被禁用。这意味着要么你在NPC的仇恨名单中，要么你参与了PVP行动（无论是攻击者还是受害者）。
+* [PLAYER\_REGEN\_ENABLED](https://wow.gamepedia.com/PLAYER_REGEN_ENABLED) - 战斗结束后触发，回复速度恢复正常。用于确定玩家何时离开战斗。当你不在任何npc的仇恨列表中，或者在你参与的最近一次pvp攻击后几秒，就会发生这种情况。
 * [PLAYER\_SPECIALIZATION\_CHANGED](https://wow.gamepedia.com/PLAYER_SPECIALIZATION_CHANGED)
-* [PLAYER\_STARTED\_LOOKING](https://wow.gamepedia.com/PLAYER_STARTED_LOOKING)
+* [PLAYER\_STARTED\_LOOKING](https://wow.gamepedia.com/PLAYER_STARTED_LOOKING) - 在游戏世界中单击鼠标左键，当相机开始自由观看时触发。
 * [PLAYER\_STARTED\_MOVING](https://wow.gamepedia.com/PLAYER_STARTED_MOVING)
 * [PLAYER\_STARTED\_TURNING](https://wow.gamepedia.com/PLAYER_STARTED_TURNING)
 * [PLAYER\_STOPPED\_LOOKING](https://wow.gamepedia.com/PLAYER_STOPPED_LOOKING)
