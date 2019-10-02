@@ -53,7 +53,7 @@
 * [SPELL\_CONFIRMATION\_PROMPT](https://wow.gamepedia.com/SPELL_CONFIRMATION_PROMPT)
 * [SPELL\_CONFIRMATION\_TIMEOUT](https://wow.gamepedia.com/SPELL_CONFIRMATION_TIMEOUT)
 * [UNIT\_ABSORB\_AMOUNT\_CHANGED](https://wow.gamepedia.com/UNIT_ABSORB_AMOUNT_CHANGED)
-* [UNIT\_ATTACK](https://wow.gamepedia.com/UNIT_ATTACK)
+* [UNIT\_ATTACK](https://wow.gamepedia.com/UNIT_ATTACK) - 当一个单位的攻击受到影响时触发。
 * [UNIT\_ATTACK\_POWER](https://wow.gamepedia.com/UNIT_ATTACK_POWER)
 * [UNIT\_ATTACK\_SPEED](https://wow.gamepedia.com/UNIT_ATTACK_SPEED)
 * [UNIT\_AURA](https://wow.gamepedia.com/UNIT_AURA)
