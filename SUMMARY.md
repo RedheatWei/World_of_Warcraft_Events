@@ -107,4 +107,5 @@
   * [C\_Transmog](shi-jian/ctransmog.md)
   * [C\_Tutorial](shi-jian/ctutorial.md)
   * [C\_UI](shi-jian/cui.md)
+  * [C\_UIWidgetManager UI部件管理](shi-jian/cuiwidgetmanager-ui-bu-jian-guan-li.md)
 
