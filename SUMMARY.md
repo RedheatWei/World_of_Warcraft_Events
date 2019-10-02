@@ -109,4 +109,5 @@
   * [C\_UI](shi-jian/cui.md)
   * [C\_UIWidgetManager UI部件管理](shi-jian/cuiwidgetmanager-ui-bu-jian-guan-li.md)
   * [C\_Vehicle](shi-jian/cvehicle.md)
+  * [C\_VideoOptions 视频选项](shi-jian/cvideooptions-shi-pin-xuan-xiang.md)
 
