@@ -106,4 +106,5 @@
   * [C\_Trainer 训练师](shi-jian/ctrainer-xun-lian-shi.md)
   * [C\_Transmog](shi-jian/ctransmog.md)
   * [C\_Tutorial](shi-jian/ctutorial.md)
+  * [C\_UI](shi-jian/cui.md)
 
