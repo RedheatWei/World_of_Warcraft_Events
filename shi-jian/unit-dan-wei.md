@@ -24,7 +24,7 @@
 * [PLAYER\_DAMAGE\_DONE\_MODS](https://wow.gamepedia.com/PLAYER_DAMAGE_DONE_MODS)
 * [PLAYER\_ENTER\_COMBAT](https://wow.gamepedia.com/PLAYER_ENTER_COMBAT) - 当玩家发动自动攻击时触发。请注意，发射一支枪或一个咒语，或获得仇恨，不会触发此事件。
 * [PLAYER\_FARSIGHT\_FOCUS\_CHANGED](https://wow.gamepedia.com/PLAYER_FARSIGHT_FOCUS_CHANGED)
-* [PLAYER\_FLAGS\_CHANGED](https://wow.gamepedia.com/PLAYER_FLAGS_CHANGED)
+* [PLAYER\_FLAGS\_CHANGED](https://wow.gamepedia.com/PLAYER_FLAGS_CHANGED) - 当单位的标志更改时（例如/afk，/dnd），此事件触发。
 * [PLAYER\_FOCUS\_CHANGED](https://wow.gamepedia.com/PLAYER_FOCUS_CHANGED)
 * [PLAYER\_LEAVE\_COMBAT](https://wow.gamepedia.com/PLAYER_LEAVE_COMBAT)
 * [PLAYER\_LEVEL\_CHANGED](https://wow.gamepedia.com/PLAYER_LEVEL_CHANGED)
