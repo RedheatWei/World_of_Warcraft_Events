@@ -83,4 +83,5 @@
   * [C\_RecruitAFriend ](shi-jian/crecruitafriend.md)
   * [C\_ReportSystem 报告系统](shi-jian/creportsystem-bao-gao-xi-tong.md)
   * [C\_ResearchInfo ](shi-jian/cresearchinfo.md)
+  * [C\_RestrictedActions 受限动作](shi-jian/crestrictedactions-shou-xian-dong-zuo.md)
 
