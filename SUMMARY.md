@@ -90,4 +90,5 @@
   * [C\_SecureTransfer](shi-jian/csecuretransfer.md)
   * [C\_SkillInfo 技能信息](shi-jian/cskillinfo-ji-neng-xin-xi.md)
   * [C\_Social 社交](shi-jian/csocial-she-jiao.md)
+  * [C\_SocialQueue](shi-jian/csocialqueue.md)
 
