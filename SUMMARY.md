@@ -78,4 +78,5 @@
   * [C\_PetJournal 宠物日志](shi-jian/cpetjournal.md)
   * [C\_PvP](shi-jian/cpvp.md)
   * [C\_QuestChoice](shi-jian/cquestchoice.md)
+  * [C\_QuestLog 任务日志](shi-jian/cquestlog-ren-wu-ri-zhi.md)
 
