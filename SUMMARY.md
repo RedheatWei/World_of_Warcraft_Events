@@ -112,4 +112,5 @@
   * [C\_VideoOptions 视频选项](shi-jian/cvideooptions-shi-pin-xuan-xiang.md)
   * [C\_VignetteInfo](shi-jian/cvignetteinfo.md)
   * [C\_VoiceChat 语音聊天](shi-jian/cvoicechat-yu-yin-liao-tian.md)
+  * [C\_VoidStorageInfo 虚空仓库](shi-jian/cvoidstorageinfo-xu-kong-cang-ku.md)
 
