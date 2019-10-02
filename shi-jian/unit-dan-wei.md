@@ -109,7 +109,7 @@
 * [UNIT\_TARGETABLE\_CHANGED](https://wow.gamepedia.com/UNIT_TARGETABLE_CHANGED)
 * [UNIT\_THREAT\_LIST\_UPDATE](https://wow.gamepedia.com/UNIT_THREAT_LIST_UPDATE)
 * [UNIT\_THREAT\_SITUATION\_UPDATE](https://wow.gamepedia.com/UNIT_THREAT_SITUATION_UPDATE)
-* [UPDATE\_EXHAUSTION](https://wow.gamepedia.com/UPDATE_EXHAUSTION)
+* [UPDATE\_EXHAUSTION](https://wow.gamepedia.com/UPDATE_EXHAUSTION) - 当你的角色的经验耗尽（例如，[休息双倍经验](https://wow.gamepedia.com/Rest)）改变时被触发。使用[getxpextraction](https://wow.gamepedia.com/API_GetXPExhaustion)查询当前值。
 * [UPDATE\_MOUSEOVER\_UNIT](https://wow.gamepedia.com/UPDATE_MOUSEOVER_UNIT)
 * [UPDATE\_STEALTH](https://wow.gamepedia.com/UPDATE_STEALTH)
 * [VEHICLE\_ANGLE\_UPDATE](https://wow.gamepedia.com/VEHICLE_ANGLE_UPDATE)
