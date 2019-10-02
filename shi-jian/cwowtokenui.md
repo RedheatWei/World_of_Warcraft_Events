@@ -1,0 +1,19 @@
+### C\_WowTokenUI
+
+* [TOKEN\_AUCTION\_SOLD](https://wow.gamepedia.com/TOKEN_AUCTION_SOLD)
+* [TOKEN\_BUY\_CONFIRM\_REQUIRED](https://wow.gamepedia.com/TOKEN_BUY_CONFIRM_REQUIRED)
+* [TOKEN\_BUY\_RESULT](https://wow.gamepedia.com/TOKEN_BUY_RESULT)
+* [TOKEN\_CAN\_VETERAN\_BUY\_UPDATE](https://wow.gamepedia.com/TOKEN_CAN_VETERAN_BUY_UPDATE)
+* [TOKEN\_DISTRIBUTIONS\_UPDATED](https://wow.gamepedia.com/TOKEN_DISTRIBUTIONS_UPDATED)
+* [TOKEN\_MARKET\_PRICE\_UPDATED](https://wow.gamepedia.com/TOKEN_MARKET_PRICE_UPDATED)
+* [TOKEN\_REDEEM\_BALANCE\_UPDATED](https://wow.gamepedia.com/TOKEN_REDEEM_BALANCE_UPDATED)
+* [TOKEN\_REDEEM\_CONFIRM\_REQUIRED](https://wow.gamepedia.com/TOKEN_REDEEM_CONFIRM_REQUIRED)
+* [TOKEN\_REDEEM\_FRAME\_SHOW](https://wow.gamepedia.com/TOKEN_REDEEM_FRAME_SHOW)
+* [TOKEN\_REDEEM\_GAME\_TIME\_UPDATED](https://wow.gamepedia.com/TOKEN_REDEEM_GAME_TIME_UPDATED)
+* [TOKEN\_REDEEM\_RESULT](https://wow.gamepedia.com/TOKEN_REDEEM_RESULT)
+* [TOKEN\_SELL\_CONFIRM\_REQUIRED](https://wow.gamepedia.com/TOKEN_SELL_CONFIRM_REQUIRED)
+* [TOKEN\_SELL\_RESULT](https://wow.gamepedia.com/TOKEN_SELL_RESULT)
+* [TOKEN\_STATUS\_CHANGED](https://wow.gamepedia.com/TOKEN_STATUS_CHANGED)
+
+
+
