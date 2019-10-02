@@ -98,4 +98,5 @@
   * [C\_SpellBook 技能书](shi-jian/cspellbook-ji-neng-shu.md)
   * [C\_StableInfo](shi-jian/cstableinfo.md)
   * [C\_System 系统](shi-jian/csystem-xi-tong.md)
+  * [C\_TalkingHead](shi-jian/ctalkinghead.md)
 
