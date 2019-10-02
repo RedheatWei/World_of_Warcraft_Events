@@ -8,3 +8,13 @@
 
 ~~此页面列出了插件可用的事件以及简要说明;个别活动页面上可能会提供更详细的信息。~~有关在插件中设置事件处理的一般教程，请参阅[Handling events](https://wow.gamepedia.com/Handling_events)和[Frame:RegisterEvent](https://wow.gamepedia.com/API_Frame_RegisterEvent)方法。
 
+---
+
+#### 更新日志:
+
+* 2019.10.2 初译完成
+
+---
+
+
+
