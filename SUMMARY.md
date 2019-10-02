@@ -104,4 +104,5 @@
   * [C\_TradeInfo 贸易信息](shi-jian/ctradeinfo-mao-yi-xin-xi.md)
   * [C\_TradeSkillUI 贸易技能UI](shi-jian/ctradeskillui-mao-yi-ji-neng-ui.md)
   * [C\_Trainer 训练师](shi-jian/ctrainer-xun-lian-shi.md)
+  * [C\_Transmog](shi-jian/ctransmog.md)
 
