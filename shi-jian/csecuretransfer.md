@@ -1,0 +1,8 @@
+### C\_SecureTransfer
+
+* [SECURE\_TRANSFER\_CANCEL](https://wow.gamepedia.com/SECURE_TRANSFER_CANCEL)
+* [SECURE\_TRANSFER\_CONFIRM\_SEND\_MAIL](https://wow.gamepedia.com/SECURE_TRANSFER_CONFIRM_SEND_MAIL)
+* [SECURE\_TRANSFER\_CONFIRM\_TRADE\_ACCEPT](https://wow.gamepedia.com/SECURE_TRANSFER_CONFIRM_TRADE_ACCEPT)
+
+
+

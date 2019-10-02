@@ -87,4 +87,5 @@
   * [C\_ScenarioInfo 剧情信息](shi-jian/cscenarioinfo-ju-qing-xin-xi.md)
   * [C\_ScrappingMachineUI 分解机UI](shi-jian/cscrappingmachineui-fen-jie-ji-ui.md)
   * [C\_ScriptWarnings 脚本警告](shi-jian/cscriptwarnings-jiao-ben-jing-gao.md)
+  * [C\_SecureTransfer](shi-jian/csecuretransfer.md)
 
