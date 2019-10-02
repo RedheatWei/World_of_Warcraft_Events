@@ -54,14 +54,14 @@
 * [SPELL\_CONFIRMATION\_TIMEOUT](https://wow.gamepedia.com/SPELL_CONFIRMATION_TIMEOUT)
 * [UNIT\_ABSORB\_AMOUNT\_CHANGED](https://wow.gamepedia.com/UNIT_ABSORB_AMOUNT_CHANGED)
 * [UNIT\_ATTACK](https://wow.gamepedia.com/UNIT_ATTACK) - 当一个单位的攻击受到影响时触发。
-* [UNIT\_ATTACK\_POWER](https://wow.gamepedia.com/UNIT_ATTACK_POWER)
-* [UNIT\_ATTACK\_SPEED](https://wow.gamepedia.com/UNIT_ATTACK_SPEED)
-* [UNIT\_AURA](https://wow.gamepedia.com/UNIT_AURA)
-* [UNIT\_CHEAT\_TOGGLE\_EVENT](https://wow.gamepedia.com/UNIT_CHEAT_TOGGLE_EVENT)
+*  [UNIT\_ATTACK\_POWER](https://wow.gamepedia.com/UNIT_ATTACK_POWER) - 当一个单位的攻击力改变时触发。
+* [UNIT\_ATTACK\_SPEED](https://wow.gamepedia.com/UNIT_ATTACK_SPEED) - 当你的攻击速度被列出或受到影响时触发。
+* [UNIT\_AURA](https://wow.gamepedia.com/UNIT_AURA) - 当一个实体（玩家、宠物、NPC或怪物）获得或消失一个buff、debuff、status或item加成时触发。
+* [UNIT\_CHEAT\_TOGGLE\_EVENT](https://wow.gamepedia.com/UNIT_CHEAT_TOGGLE_EVENT) 
 * [UNIT\_CLASSIFICATION\_CHANGED](https://wow.gamepedia.com/UNIT_CLASSIFICATION_CHANGED)
-* [UNIT\_COMBAT](https://wow.gamepedia.com/UNIT_COMBAT)
+* [UNIT\_COMBAT](https://wow.gamepedia.com/UNIT_COMBAT) - 当NPC或玩家参与战斗并受到伤害时触发
 * [UNIT\_CONNECTION](https://wow.gamepedia.com/UNIT_CONNECTION)
-* [UNIT\_DAMAGE](https://wow.gamepedia.com/UNIT_DAMAGE)
+* [UNIT\_DAMAGE](https://wow.gamepedia.com/UNIT_DAMAGE) - 当单位近战伤害改变时触发。
 * [UNIT\_DEFENSE](https://wow.gamepedia.com/UNIT_DEFENSE)
 * [UNIT\_DISPLAYPOWER](https://wow.gamepedia.com/UNIT_DISPLAYPOWER)
 * [UNIT\_FACTION](https://wow.gamepedia.com/UNIT_FACTION)
